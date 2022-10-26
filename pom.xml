@@ -36,7 +36,7 @@
 
 						<password>${anypoint.password}</password>
 
-						<applicationName>riya-sample-cicd-test</applicationName>
+						<applicationName>riya-sample-cicd-test-before</applicationName>
 
 						<environment>Sandbox</environment>
 
