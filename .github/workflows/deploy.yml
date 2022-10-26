@@ -71,4 +71,4 @@ jobs:
 
         - name: Build and cloudhub deployment
 
-          run: mvn clean package deploy -DskipTests -DmuleDeploy  -Dusername=${{secrets.ANYPOINT_USERNAME }} -Dpassword=${{secrets.ANYPOINT_USERNAME }}
+          run: mvn clean package deploy -DskipTests -DmuleDeploy  -Dusername=${{secrets.ANYPOINT_USERNAME }} -Dpassword=${{secrets.ANYPOINT_PASSWORD }}
