@@ -12,7 +12,8 @@
 	<properties>
 		<project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
 		<project.reporting.outputEncoding>UTF-8</project.reporting.outputEncoding>
-
+<anypoint.username>rpunjabi-personal</anypoint.username>
+		<anypoint.password>Rpunjabi@16</anypoint.password>
 		<app.runtime>4.4.0-20220622</app.runtime>
 		<mule.maven.plugin.version>3.6.3</mule.maven.plugin.version>
 	</properties>
