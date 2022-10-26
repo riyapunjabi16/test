@@ -32,9 +32,9 @@
 
 						<muleVersion>4.4.0</muleVersion>
 
-						<username>${anypoint.username}</username>
+						<username>${username}</username>
 
-						<password>${anypoint.password}</password>
+						<password>${password}</password>
 
 						<applicationName>riya-sample-cicd-test-before</applicationName>
 
